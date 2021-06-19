@@ -16,4 +16,4 @@
 
 1. opencv: 3.4.2
 2. onnxruntime: 1.4.0
-
+【注】：opencv环境请实现配置好在系统环境里，onnxruntime在本工程中自带。
